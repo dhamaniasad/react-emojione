@@ -1,5 +1,5 @@
 {
-  "name": "react-emojione",
+  "name": "react-emojione-preact",
   "version": "5.0.0",
   "description": "A tiny library to use emojis in React",
   "main": "index.js",
@@ -52,7 +52,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pladaria/react-emojione.git"
+    "url": "git+https://github.com/dhamaniasad/react-emojione.git"
   },
   "keywords": [
     "react",
@@ -63,9 +63,9 @@
     "smileys"
   ],
   "bugs": {
-    "url": "https://github.com/pladaria/react-emojione/issues"
+    "url": "https://github.com/dhamaniasad/react-emojione/issues"
   },
-  "homepage": "https://github.com/pladaria/react-emojione#readme",
+  "homepage": "https://github.com/dhamaniasad/react-emojione#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
   }
