@@ -5,7 +5,7 @@
  *
  * Emoji provided free by http://emojione.com
  */
-import React from 'react';
+import React from 'preact-compat';
 import ASCII_DATA from './data/ascii-to-unicode';
 import getRenderer from './renderers/renderer-factory';
 import {unicodes, shortToCodepoint, unicodeToCodepoint} from './utils/emoji-format-conversion';

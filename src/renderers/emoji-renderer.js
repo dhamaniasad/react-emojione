@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'preact-compat';
 import {sprite} from '../styles/emojione-sprite';
 import {codepointToShort, codepointToUnicode} from '../utils/emoji-format-conversion';
 
